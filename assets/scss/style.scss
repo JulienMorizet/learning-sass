@@ -1,0 +1,14 @@
+body {
+background-color: red;
+}
+
+$unicorn: yellow;
+
+$kitten: purple;
+
+div {
+    color: $unicorn;
+  }
+  p {
+    background: $kitten;
+  }
